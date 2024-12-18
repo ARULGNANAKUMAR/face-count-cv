@@ -1,2 +1,2 @@
-# face-count-cv
-face count cv using Python
+# face-count-Open cv
+face count Opencv using Python
